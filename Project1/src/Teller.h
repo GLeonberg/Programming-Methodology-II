@@ -1,6 +1,4 @@
 // Gregory Leonberg
-// NetID: gdl35
-// RUID: 159-00-5392
 
 // Teller.h: defines a basic Teller class used in bank simulation
 
