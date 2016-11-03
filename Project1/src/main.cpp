@@ -1,6 +1,4 @@
 // Gregory Leonberg
-// NetID: gdl35
-// RUID: 159-00-5392
 
 // main.cpp: conducts the frontend for the banking project	
 
