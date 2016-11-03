@@ -1,6 +1,4 @@
 // Gregory Leonberg
-// NetID: gdl35
-// RUID: 159-00-5392
 
 // BankSim.h: conducts the simulation backend for the banking project
 
