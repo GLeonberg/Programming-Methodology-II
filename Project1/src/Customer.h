@@ -1,6 +1,4 @@
 // Gregory Leonberg
-// NetID: gdl35
-// RUID: 159-00-5392
 
 // Customer.h: defines a basic Customer class used in bank simulation
 
