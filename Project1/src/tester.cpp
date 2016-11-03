@@ -1,6 +1,4 @@
 // Gregory Leonberg
-// NetID: gdl35
-// RUID: 159-00-5392
 
 // tester.cpp: conducts unit, system, and acceptance tests
 //             for the bank simulation project using assert()
