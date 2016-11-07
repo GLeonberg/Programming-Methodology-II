@@ -286,7 +286,8 @@ print "Bubble sort: ", sbubbleTimes
 #
 #	Bubble Sort takes roughly twice as many operations as insertion and selection sort
 #
-#	All of the graphs have exponential, which re-affirms their O(n^2) growth rates.
+#	All of the graphs have exponential slopes, which re-affirms their O(n^2) growth rates.
+#
 ############################################
 
 ############################################
