@@ -11,7 +11,6 @@
 # A single operation is defined as a comparison, swap, or insertion
 
 #import matplotlib.pyplot as plt
-from time import time
 
 ############################################
 def bubble(arr):
@@ -275,6 +274,20 @@ print "Sorted data number of operations: "
 print "Selection sort: ", sselectionTimes
 print "Insertion sort: ", sinsertionTimes
 print "Bubble sort: ", sbubbleTimes
+
+############################################
+# Discussion (Unsorted Data Sorting)
+############################################
+#
+# When feeding unsorted data into the algorithms:
+#
+#	Insertion Sort and Selection Sort take roughly the same
+#	number of operations to sort the datasets.
+#
+#	Bubble Sort takes roughly twice as many operations as insertion and selection sort
+#
+#	All of the graphs have exponential, which re-affirms their O(n^2) growth rates.
+############################################
 
 ############################################
 # Plotting
