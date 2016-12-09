@@ -1,0 +1,4 @@
+for ksmall.py use "python ksmall.py --file hw2-data.txt"
+for hanoi.py just use "python hanoi.py" 
+
+feel free to uncomment the commented code in hanoi.py for doing the graphs (you have to have matplotlib and the associated libraries installed though)
